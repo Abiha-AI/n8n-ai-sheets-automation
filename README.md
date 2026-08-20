@@ -30,10 +30,7 @@ A simple yet powerful n8n workflow that automates AI-powered data processing usi
 
 ---
 
-## Workflow Preview
-
-![Workflow Screenshot](./assets/workflow-screenshot.png)
-
+![Workflow Screenshot](n8n-workflow.JPG)
 ---
 
 ## ⚙️ Setup Instructions

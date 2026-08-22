@@ -67,4 +67,4 @@ MIT — Feel free to use and modify for your own projects.
 
 ---
 
-&gt; Built with 💚 during my internship using [n8n](https://n8n.io)
+&gt; Built during my internship at neurofive solution using [n8n](https://n8n.io)
